@@ -98,6 +98,6 @@ img {
 
 @media screen and (max-width: 510px) {
   .modal {
-    padding: 3.5rem;
+    padding: 0rem;
   }
 }
