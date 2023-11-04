@@ -94,3 +94,10 @@ img {
   backdrop-filter: blur(3px);
   z-index: 5;
 }
+/* Modal Responsiveness */
+
+@media screen and (max-width: 510px) {
+  .modal {
+    padding: 3.5rem;
+  }
+}
